@@ -1,3 +1,6 @@
+Preamble
+========
+
 Kofi, a nurse in a maternity ward, tells his friends that more babies are born
 during a full moon. "Why, just last week it was crazy busy and I look outside
 to see — sure enough — a full moon!" Kofi doesn't notice that during the next
@@ -9,12 +12,24 @@ the Welsh, and Lee grew to share his views. "They're always trouble, can't trust
 of their team are from Wales, but Lee is dismissive. "They're the good ones,
 not like the others," she says.
 
-- Important in these times of fake news and bubbles
+Style guide
+===========
+
 - Probability = chance or odds
 - Hypothesis, theory = belief
 
 https://en.wikipedia.org/wiki/Truthiness
 https://today.yougov.com/news/2016/12/27/belief-conspiracies-largely-depends-political-iden/
+
+what it is,
+why we should care,
+how it grows and sticks with us,
+why it develops, and
+how to fight back.
+
+cognitive biases…not a leaning or slant as with left- or right-wing bias
+more like a mental tendency or inclination
+
 
 References
 ==========
