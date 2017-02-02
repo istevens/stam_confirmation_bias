@@ -96,6 +96,11 @@ Klayman 1995::
     - bias towards the positive => cognitive failure [Evans 1989]
         eg. positive correlations between cues easier to learn [Klayman 1988]
 
+Bian 2017::
+    - At 5, both boys and girls associated brilliance with their own gender to a similar extent
+    - Girls aged 6-7 were significantly less likely to associate brilliance with their own gender
+    - Leading girls to be less interested in games labelled for "really, really smart" children
+    - YET girls disassociate brilliance with school smarts
 
 Why it develops
 ===============
@@ -104,6 +109,10 @@ Does learning truly converge on optimizing behaviour?
 
 References
 ==========
+
+Bian, L., Leslie, S., and Cimpian, A. (2017). Gender stereotypes about
+intellectual ability emerge early and influence children’s interests. Science,
+27 Jan 2017, Vol. 355, Issue 6323, pp. 389-391.
 
 Jones, M., and Sugden, R. (2000). Positive confirmation bias in the acquisition
 of information. (Dundee Discussion Papers in Economics; No. 115). University
