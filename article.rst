@@ -33,37 +33,68 @@ how to fight back.
 What it is
 ==========
 
-cognitive biases…not a leaning or slant as with left- or right-wing bias
-more like a mental tendency or inclination
+.. Need a snappier intro to draw reader in
 
-Francis Bacon (1561-1626)::
+Confirmation bias is one of many cognitive biases which affect how we reason.
+Unlike a leaning or a slant, like left- or right-wing bias, cognitive biases
+are the result of involuntary mental "short cuts". These short cuts may have
+helped our ancestors quickly distinguish friend from foe, but they impede logic
+and accuracy necessary in our modern world.[NELSON2013]_
+
+While there are many cognitive biases, confirmation bias likely does us the
+most harm. It leads us to hold false beliefs with a confidence greater than
+evidence can justify.[NICKERSON1998]_ Those affected will often misinterpret
+new information as supporting a previously-held belief.[RABIN1999]_ In this
+way, confirmation bias tricks us into accepting falsehoods and nurtures them
+until we are certain they are true.
+
+Before confirmation bias had a name, people were thought to be largely
+rational. Any errors in judgement were often blamed on improper empirical
+methods.[LARRICK2004]_ In his recount of the Peloponnesian War, Thucydides
+(460BC-395BC) called confirmation bias a "habit"::
+
+    "… for it is a habit of mankind to entrust to careless hope what they long
+    for, and to use sovereign reason to thrust aside what they do not fancy.
+
+Sir Francis Bacon (1561-1626) was more inclined to treat confirmation bias as a
+phenomenon of the mind::
+
     "The human understanding when it has once adopted an opinion (either as
     being the received opinion or as being agreeable to itself) draws all
     things else to support and agree with it."
 
-Thucydides (460BC-400BD)::
-    "When a man finds a conclusion agreeable, he accepts it without argument,
-    but when he finds it disagreeable, he will bring against it all the forces
-    of logic and reason."
+It wasn't until 1960, when psychologist Peter Wason performed his first
+selection experiment, that confirmation bias was studied and named.
 
-Rabin 1999::
-    - ppl have cognitive bias that leads them to misinterpret new info as
-      supporting previously held beliefs
-    - induces overconfidence
+Wason's experiment was simple: present a subject with three numbers (ie.
+2-4-6), and ask him/her to identify a rule for the three numbers.  The subjects
+were then asked to pick three other numbers which fit their supposed rule, and
+were told whether their numbers fit the actual rule. Although the actual rule
+was "any ascending sequence", subjects would often come up with rules specific
+to the initial triplet (eg. "numbers increasing by two") and would often only
+pick triplets which confirmed their rule, never triplets which would disconfirm
+it. As we will learn later, improper selection of evidence is one tendency
+contributing to confidence bias.
 
-Nelson 2013::
-    - cognitive short cuts
-    - required to quickly sort potentially dangerous from benign (class things into kinds)
-    - OK for survival but not for logic and accuracy
-    - p27 has cites
+.. notes
+   Rabin 1999::
+       - ppl have cognitive bias that leads them to misinterpret new info as
+         supporting previously held beliefs
+       - induces overconfidence
 
-Nickerson 1998::
-    - inappropriate bolstering of beliefs whose truth is in question
-    - impartial evaluation vs. "building a case" (deliberate, see slant above)
-    - deliberate vs. unwitting (where conf bias falls)
-    - motivated (by desire to defend beliefs) vs. unmotivated (no personal interest, CB can still exist)
-    - ppl prone to treat evidence in biased ways if issue at hand matters to them
-    - many beliefs may be held with a strength or degree of certainty which exceeds what evidence justifies
+   Nelson 2013::
+       - cognitive short cuts
+       - required to quickly sort potentially dangerous from benign (class things into kinds)
+       - OK for survival but not for logic and accuracy
+       - p27 has cites
+
+   Nickerson 1998::
+       - inappropriate bolstering of beliefs whose truth is in question
+       - impartial evaluation vs. "building a case" (deliberate, see slant above)
+       - deliberate vs. unwitting (where conf bias falls)
+       - motivated (by desire to defend beliefs) vs. unmotivated (no personal interest, CB can still exist)
+       - ppl prone to treat evidence in biased ways if issue at hand matters to them
+       - many beliefs may be held with a strength or degree of certainty which exceeds what evidence justifies
 
 Why we should care
 ==================
@@ -126,7 +157,7 @@ Larrick, R. P. (2004) Debiasing, in Blackwell Handbook of Judgment and Decision
 Making (eds D. J. Koehler and N. Harvey), Blackwell Publishing Ltd, Malden, MA,
 USA.
 
-Nelson, J. A. (2015), Are women really more risk-averse than men? A re-analysis
+.. [NELSON2012] Nelson, J. A. (2015), Are women really more risk-averse than men? A re-analysis
 of the literature using expanded methods. Journal of Economic Surveys, 29:
 566-585.
 
