@@ -1,3 +1,18 @@
+Preamble
+========
+
+Kofi, a nurse in a maternity ward, tells his friends that more babies are born
+during a full moon. "Why, just last week it was crazy busy and I look outside
+to see — sure enough — a full moon!" Kofi doesn't notice that during the next
+full moon the ward is quiet.
+
+As a child, Lee lived outside of London, England. Her father had it in for
+the Welsh, and Lee grew to share his views. "They're always trouble, can't trust
+'em," she says to a co-worker, Bill. Bill points out that two respected members
+of their team are from Wales, but Lee is dismissive. "They're the good ones,
+not like the others," she says.
+
+
 What it is
 ==========
 
