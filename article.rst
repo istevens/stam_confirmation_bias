@@ -25,18 +25,18 @@ Confirmation bias is one of many cognitive biases which affect how we reason.
 Unlike a leaning or a slant, like left- or right-wing bias, cognitive biases
 are the result of involuntary mental "short-cuts". [Brief example] These
 short-cuts may have helped our ancestors quickly tell a friend from a foe, but
-they impede logic and accuracy necessary in our modern world.[NELSON2013]_
+they impede logic and accuracy necessary in our modern world. [NELSON2015]_
 
 While there are many cognitive biases, confirmation bias likely does us the
 most harm. It leads us to hold false beliefs with a confidence greater than
 evidence can justify.[NICKERSON1998]_ Those affected will often misinterpret
-new information as supporting a previously-held belief.[RABIN1999]_ In this
+new information as supporting a previously-held belief. [RABIN1999]_ In this
 way, confirmation bias tricks us into accepting untruths and nurtures them
 until we are certain they are true.
 
 Before confirmation bias had a name, people were thought to be largely
 rational. Any errors in judgement were often blamed on weak
-reasoning.[LARRICK2004]_ In his recount of the Peloponnesian War, Thucydides
+reasoning. [LARRICK2004]_ In his recount of the Peloponnesian War, Thucydides
 (460BC-395BC) called confirmation bias a "habit"::
 
     "… for it is a habit of mankind to entrust to careless hope what they long
@@ -63,7 +63,7 @@ to be wrong. As we will learn later, improper selection of evidence is one
 tendency which contributes to confirmation bias.
 
 Since Wason's experiment, many studies have shown that not only do we hold
-systematic biases, they are robust to corrective measures.[LARRICK2004]_ We as
+systematic biases, they are robust to corrective measures. [LARRICK2004]_ We as
 individuals are largely unaware of our own confirmation bias. Worse, although
 our reasoning about information is sometimes subject to bias, supporting
 existing beliefs, we rationally apply that information to our own state of the
@@ -127,29 +127,31 @@ Does learning truly converge on optimizing behaviour?
 References
 ==========
 
-Bian, L., Leslie, S., and Cimpian, A. (2017). Gender stereotypes about
-intellectual ability emerge early and influence children’s interests. Science,
-27 Jan 2017, Vol. 355, Issue 6323, pp. 389-391.
+.. [BIAN2017] Bian, L., Leslie, S., and Cimpian, A. (2017). Gender stereotypes
+   about intellectual ability emerge early and influence children’s interests.
+   Science, 27 Jan 2017, Vol. 355, Issue 6323, pp. 389-391.
 
-Jones, M., and Sugden, R. (2000). Positive confirmation bias in the acquisition
-of information. (Dundee Discussion Papers in Economics; No. 115). University
-of Dundee.
+.. [JONES2000] Jones, M., and Sugden, R. (2000). Positive confirmation bias in
+   the acquisition of information. (Dundee Discussion Papers in Economics; No.
+   115). University of Dundee.
 
-Klayman, J. (1995). Varieties of confirmation bias. In J. Busemeyer, R. Hastie,
-& D. L. Medin (Eds.), Decision making from a cognitive perspective. New York:
-Academic Press (Psychology of Learning and Motivation, vol. 32), pp. 365-418.
+.. [KLAYMAN1995] Klayman, J. (1995). Varieties of confirmation bias. In J.
+   Busemeyer, R. Hastie, & D. L. Medin (Eds.), Decision making from a cognitive
+   perspective. New York: Academic Press (Psychology of Learning and Motivation,
+   vol. 32), pp. 365-418.
 
-Larrick, R. P. (2004) Debiasing, in Blackwell Handbook of Judgment and Decision
-Making (eds D. J. Koehler and N. Harvey), Blackwell Publishing Ltd, Malden, MA,
-USA.
+.. [LARRICK2004] Larrick, R. P. (2004) Debiasing, in Blackwell Handbook of
+   Judgment and Decision Making (eds D. J. Koehler and N. Harvey), Blackwell
+   Publishing Ltd, Malden, MA, USA.
 
-.. [NELSON2012] Nelson, J. A. (2015), Are women really more risk-averse than men? A re-analysis
-of the literature using expanded methods. Journal of Economic Surveys, 29:
-566-585.
+.. [NELSON2015] Nelson, J. A. (2015), Are women really more risk-averse than
+   men? A re-analysis of the literature using expanded methods. Journal of
+   Economic Surveys, 29: 566-585.
 
-Nickerson, J. S. (1998). Confirmation bias: a ubiquitous phenomenon in many
-guises. Review of General Psychology, Vol. 2, No. 2, pp. 175-220.
+.. [NICKERSON1998] Nickerson, J. S. (1998). Confirmation bias: a ubiquitous
+   phenomenon in many guises. Review of General Psychology, Vol. 2, No. 2, pp.
+   175-220.
 
-Rabin, Matthew and Schrag, Joel L., (1999), First Impressions Matter: A Model
-of Confirmatory Bias, The Quarterly Journal of Economics, 114, issue 1, p.
-37-82
+.. [RABIN1999] Rabin, Matthew and Schrag, Joel L., (1999), First Impressions
+   Matter: A Model of Confirmatory Bias, The Quarterly Journal of Economics, 114,
+   issue 1, p. 37-82
