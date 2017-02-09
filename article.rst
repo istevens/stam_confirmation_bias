@@ -78,45 +78,57 @@ over-confident in our beliefs, and further reinforce our bias. [JONES2000]_
 Why we should care
 ==================
 
+As we'll learn later, confirmation bias can change the way its victims view
+reality. Once affected, we may only see what we are led to expect. We may also
+overvalue information or events which support our theories. Horoscopes are a
+mild example of how these tendencies can be used and remain popular because of
+them. People often feel that universally positive traits apply to themselves
+without considering how widespread those traits actually are. This opens us to
+believe and place faith in horoscopes, but also psychics, mind readers, and
+other con artists. We often want to believe such people, often focussing on
+when they right, not instances when they are wrong. [NICKERSON1998]_
 
+Belief in horoscopes, clairvoyants, and mentalists are mild influences of
+confirmation bias. The same tendency to see or remember what we expect or
+desire can also feed more serious conditions such as hypochondria and paranoia.
+Depressed people may also focus on information which strengthens their
+depression, and ignore more positive information which may help them. [NICKERSON1998]_
 
-Rabin 1999::
-    - teachers misread pupils performance as supporting initial impressions (inner city exper. p.8)
-    - cite above study
-    - ppl supporting prior sterotypes
-
-Nelson 2013::
-    - "smart people" still have problems with CB
-    - cite this study specifically, summarise
-    - "women are more risk averse than men" claim from studies
-        - finding confirms popular stereotype as men as brave and adventurous
-            - but what if affected by CB
-
-Bian 2017::
-    - tie with above
-    - At 5, both boys and girls associated brilliance with their own gender to a similar extent
-    - Girls aged 6-7 were significantly less likely to associate brilliance with their own gender
-    - Leading girls to be less interested in games labelled for "really, really smart" children
-    - YET girls disassociate brilliance with school smarts
-
-Nickerson 1998::
-    - perceptions are influenced by seeing what we are led to expect (with
-      example of horoscopes)
-    - seeing or remembering behaviour we expect feeds
-        - stereotypes, prejudice, hypochondria, paranoia
-    - depressed ppl focus on info which strengthens depression and ignore more
-      positive info [Beck 78]
-    - also brand identity [Chernev 97]
-    - stereotyping (eg. specific behaviours more common with some groups)
-        - illusory correlation
-        - unusual behaviours in distinct group more readily recalled
-    - overweighing positive instances
-        - open to exploitation, eg. mind reader, horoscopes, psychics, gamblers
-        - ppl believe universally positive traits apply to themselves
-        - will focus on these rather than what doesn't because they want to believe
-        - will not consider universality
-        - draw from experience with friends
-        - will strengthen belief, leading to overconfidence
+.. notes
+    Rabin 1999::
+        - teachers misread pupils performance as supporting initial impressions (inner city exper. p.8)
+        - cite above study
+        - ppl supporting prior sterotypes
+    Nelson 2013::
+        - "smart people" still have problems with CB
+        - cite this study specifically, summarise
+        - "women are more risk averse than men" claim from studies
+            - finding confirms popular stereotype as men as brave and adventurous
+                - but what if affected by CB
+    Bian 2017::
+        - tie with above
+        - At 5, both boys and girls associated brilliance with their own gender to a similar extent
+        - Girls aged 6-7 were significantly less likely to associate brilliance with their own gender
+        - Leading girls to be less interested in games labelled for "really, really smart" children
+        - YET girls disassociate brilliance with school smarts
+    Nickerson 1998::
+        - perceptions are influenced by seeing what we are led to expect (with
+          example of horoscopes)
+        - seeing or remembering behaviour we expect feeds
+            - stereotypes, prejudice, hypochondria, paranoia
+        - depressed ppl focus on info which strengthens depression and ignore more
+          positive info [Beck 78]
+        - also brand identity [Chernev 97]
+        - stereotyping (eg. specific behaviours more common with some groups)
+            - illusory correlation
+            - unusual behaviours in distinct group more readily recalled
+        - overweighing positive instances
+            - open to exploitation, eg. mind reader, horoscopes, psychics, gamblers
+            - ppl believe universally positive traits apply to themselves
+            - will focus on these rather than what doesn't because they want to believe
+            - will not consider universality
+            - draw from experience with friends
+            - will strengthen belief, leading to overconfidence
 
 
 Why it develops
