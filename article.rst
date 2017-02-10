@@ -78,7 +78,7 @@ over-confident in our beliefs, and further reinforce our bias. [JONES2000]_
 Why we should care
 ==================
 
-As we'll learn later, confirmation bias can change the way its victims view
+As we'll learn later, confirmation bias can change the way we view
 reality. Once affected, we may only see what we are led to expect. We may also
 overvalue information or events which support our theories. Horoscopes are a
 mild example of how these tendencies can be used and remain popular because of
@@ -93,6 +93,37 @@ confirmation bias. The same tendency to see or remember what we expect or
 desire can also feed more serious conditions such as hypochondria and paranoia.
 Depressed people may also focus on information which strengthens their
 depression, and ignore more positive information which may help them. [NICKERSON1998]_
+
+Of greater concern is how confirmation bias can uphold stereotypes and
+prejudice. Our tendency to see what we are led to expect can be detrimental to
+what we think of other people or groups. Selective memory of events which
+confirm our thinking means that unusual behaviour from distinct groups is more
+readily recalled. Several studies have shown how bias can sway how we react
+to people about whom we hold stereotypes — even if we are only told those
+people belong to a specific group.
+
+In one such study, subjects were shown a video of a girl playing. Half the
+subjects were told the girl's parents were college-educated who held
+white-collar jobs. These subjects were shown the girl playing in a well-to-do
+suburban neighbourhood. The other subjects were told the girl's parents were
+high-school graduates who held blue-collar jobs. They were shown the girl
+playing in an impoverished inner-city neighbourhood. Half the subjects in each
+group were then asked to evaluate the girl's reading level after viewing an
+identical video of her answering a series of questions. The group which was
+told the girl was from a well-to-do suburban family rated her reading level
+significantly higher than the group which was told she was from the inner-city. [RABIN1999]_
+
+This biased tendency to judge based on stereotype doesn't come about after
+years of prejudicial thinking either. In a study similar to the one above, 5-7
+year-olds were told of a person who was "really, really smart." The children
+were then shown a picture of four adults — two women and two men — and asked to
+pick the "really, really smart" one. At aged 5, boys and girls chose their
+own gender roughly equally. Girls aged 6 or 7, however, were significantly less
+likely than boys the same age to view their own gender positively. In another
+study with different children, boys and girls aged 6 or 7 were asked to comment
+on a game for "really, really smart" children or one for children who "try
+really, really hard." The girls were significantly less interested than the
+boys in the games for smart children. [BIAN2017]_
 
 .. notes
     Rabin 1999::
