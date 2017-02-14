@@ -125,41 +125,28 @@ on a game for "really, really smart" children or one for children who "try
 really, really hard." The girls were significantly less interested than the
 boys in the games for smart children. [BIAN2017]_
 
-.. notes
-    Rabin 1999::
-        - teachers misread pupils performance as supporting initial impressions (inner city exper. p.8)
-        - cite above study
-        - ppl supporting prior sterotypes
-    Nelson 2013::
-        - "smart people" still have problems with CB
-        - cite this study specifically, summarise
-        - "women are more risk averse than men" claim from studies
-            - finding confirms popular stereotype as men as brave and adventurous
-                - but what if affected by CB
-    Bian 2017::
-        - tie with above
-        - At 5, both boys and girls associated brilliance with their own gender to a similar extent
-        - Girls aged 6-7 were significantly less likely to associate brilliance with their own gender
-        - Leading girls to be less interested in games labelled for "really, really smart" children
-        - YET girls disassociate brilliance with school smarts
-    Nickerson 1998::
-        - perceptions are influenced by seeing what we are led to expect (with
-          example of horoscopes)
-        - seeing or remembering behaviour we expect feeds
-            - stereotypes, prejudice, hypochondria, paranoia
-        - depressed ppl focus on info which strengthens depression and ignore more
-          positive info [Beck 78]
-        - also brand identity [Chernev 97]
-        - stereotyping (eg. specific behaviours more common with some groups)
-            - illusory correlation
-            - unusual behaviours in distinct group more readily recalled
-        - overweighing positive instances
-            - open to exploitation, eg. mind reader, horoscopes, psychics, gamblers
-            - ppl believe universally positive traits apply to themselves
-            - will focus on these rather than what doesn't because they want to believe
-            - will not consider universality
-            - draw from experience with friends
-            - will strengthen belief, leading to overconfidence
+Reading these studies, we may feel that are "smarter", that our reasoning is
+stronger than others', and that we would not misjudge people, especially a
+child, so readily. Yet people well-versed in reasoning and statistics can still
+have a problem with confirmation bias. Numerous peer-reviewed studies claim to
+show that women are less likely than men to take on risk. However, a 2013
+"study of studies" claims that these studies and their authors are likely to be
+affected by stereotypes induced by bias. [NELSON2015]_ The studies' authors
+reached inaccurate conclusions by falling prey to a number of tendencies behind
+confirmation bias.
+
+Some studies on risk and gender reinforce existing gender stereotypes by
+inaccurately citing conclusions of earlier literature, or emphasizing results
+agreeing with stereotypes, while downplaying or not reporting results which
+do not. These confirming results are, in turn, more likely to be published. In
+other studies, confounding variables (some due to socialization and pressure to
+conform to gender expectations) were neglected. In others, areas where women
+naturally take on a great deal of risk (such as with child birth, and risk of
+domestic violence) were neglected. Instead, other areas of risk (such as
+finance) were studied and findings extrapolated to a broader context.
+[NELSON2015]_ In the following paragraphs, we'll learn how tendencies such as
+overweighing instances of positive confirmation cause confirmation bias to grow
+and persist.
 
 
 Why it develops
