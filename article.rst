@@ -150,8 +150,70 @@ and persist. Because we often pair these tendencies with internally coherent
 patterns of reasoning, few are immune.
 
 
-Why it develops
-===============
+Why it develops and persists
+============================
+
+Confirmation bias can affect us all, but it doesn't happen by itself. It needs
+agreeable conditions to grow, flourish, and persist. Several tendencies can
+introduce bias as we develop our belief, while leaving our learning process
+intact. All stages of belief development are affected, from our initial
+hypothesis generation, to searching for, testing, interpreting, and recalling
+evidence. [KLAYMAN1995]_
+
+Sometimes we form a belief from weak evidence, and this is where confirmation
+bias can start to take hold. This isn't to say that bias only occurs when
+evidence of a belief is not ideal. That first formation of belief, however, is
+very powerful, largely due to something called the primacy effect. Information
+acquired early carries more weight and is more easily recalled. Belief will
+then start to coalesce around those first pieces of information. With belief
+backed by initial weak evidence, we will have problems correctly interpreting
+better, possibly contradictory information received later. [RABIN1999]_ We
+are more likely to question information which conflicts with existing beliefs
+than that which agrees with our beliefs. [NICKERSON1998]_ That initial belief,
+then, is very important as it is more likely to stick with us and will be
+difficult to correct.
+
+Evidence search/selection vs. interpretation
+--------------------------------------------
+
+Once we start to form a belief from initial evidence, we will often gather more
+data. While we feel that we gather impartial evidence and adjust our belief
+accordingly, this is likely not the case. Determining the likelihood our belief
+is true based on other beliefs, each with their own odds of being true, can be
+a complex task, and we often fail at it. For one, we often prefer positive
+tests for belief which can confirm that belief but will not uncover false
+negatives. [KLAYMAN1995]_ With Wason's 2-4-6 task as an example, subjects
+picked three numbers which fit their theory in order to test it, not
+three numbers which would fit a different but also valid theory, or do not fit
+the theory at all.
+
+This tendency to seek only positive evidence to match a theory uncovers
+patterns which may not exist, as with Wason's 2-4-6 task, but also limits
+discovery. In testing evidence, we tend to ask questions whose answer is yes if
+the hypothesis is true. In one study on test selection, participants were given
+a profile of an extrovert or an introvert and were asked to interview people to
+determine if they fit that type. The questions participants picked were seen as
+strongly confirming the personality type under test if given a positive answer,
+and strongly disconfirming the type if given a negative answer. [NICKERSON1998]_
+This reinforcement of our initial belief through positive tests leads us to be
+more confident in our belief, even if the data we collect is inconclusive. [KLAYMAN1995]_
+
+
+Restricting attention to a favoured belief
+------------------------------------------
+
+Preferring evidence which supports belief
+-----------------------------------------
+
+Overweighing confirming evidence of belief
+------------------------------------------
+
+Seeing what one is seeking (self-fulfilling prophecies, or illusory correlation)
+--------------------------------------------------------------------------------
+
+Primacy effect
+--------------
+
 
 Does learning truly converge on optimizing behaviour?
 
