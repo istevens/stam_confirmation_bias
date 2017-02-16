@@ -35,7 +35,7 @@ way, confirmation bias tricks us into accepting untruths and nurtures them
 until we are certain they are true.
 
 Before confirmation bias had a name, people were thought to be largely
-rational. Any errors in judgement were often blamed on weak
+rational. Any errors in judgment were often blamed on weak
 reasoning. [LARRICK2004]_ In his recount of the Peloponnesian War, Thucydides
 (460BC-395BC) called confirmation bias a "habit"::
 
@@ -85,7 +85,7 @@ mild example of how these tendencies can be used and remain popular because of
 them. People often feel that universally positive traits apply to themselves
 without considering how widespread those traits actually are. This opens us to
 believe and place faith in horoscopes, but also psychics, mind readers, and
-other con artists. We often want to believe such people, often focussing on
+other con artists. We often want to believe such people, often focusing on
 when they right, not instances when they are wrong. [NICKERSON1998]_
 
 Belief in horoscopes, clairvoyants, and mentalists are mild influences of
@@ -180,23 +180,49 @@ Once we start to form a belief from initial evidence, we will often gather more
 data. While we feel that we gather impartial evidence and adjust our belief
 accordingly, this is likely not the case. Determining the likelihood our belief
 is true based on other beliefs, each with their own odds of being true, can be
-a complex task, and we often fail at it. For one, we often prefer positive
+a complex task, and we often fail at it. [#bayes]_ For one, we often prefer positive
 tests for belief which can confirm that belief but will not uncover false
 negatives. [KLAYMAN1995]_ With Wason's 2-4-6 task as an example, subjects
 picked three numbers which fit their theory in order to test it, not
 three numbers which would fit a different but also valid theory, or do not fit
 the theory at all.
 
+.. [#bayes] Also known as Bayes' Theorem, this involves calculating the odds
+   of an event occurring based on conditions related to the event.
+
 This tendency to seek only positive evidence to match a theory uncovers
 patterns which may not exist, as with Wason's 2-4-6 task, but also limits
-discovery. In testing evidence, we tend to ask questions whose answer is yes if
-the hypothesis is true. In one study on test selection, participants were given
+discovery. In testing evidence, we tend to ask questions whose answer is "yes" if
+the hypothesis is true. For instance, in one study on test selection, participants were given
 a profile of an extrovert or an introvert and were asked to interview people to
 determine if they fit that type. The questions participants picked were seen as
 strongly confirming the personality type under test if given a positive answer,
 and strongly disconfirming the type if given a negative answer. [NICKERSON1998]_
 This reinforcement of our initial belief through positive tests leads us to be
 more confident in our belief, even if the data we collect is inconclusive. [KLAYMAN1995]_
+
+Any selectively collected evidence is then interpreted. Our confirmation bias
+kicks in here as well, especially where the evidence is ambiguous or vague. In
+instances where evidence is open to interpretation, we tend to give our beliefs
+the benefit of the doubt. [KLAYMAN1995]_ As an example, a teacher might
+interpret a student's non-standard answer to a question as either stupid or
+creative, depending on how the teacher feels about the student beforehand.
+
+We are also prone to view confirming evidence as reliable and relevant, and often
+accept it at face value. Disconfirming evidence, however, is often seen as
+unreliable and unimportant, and is scrutinized, often hypercritically,
+especially if the source is believed to be subject to error. [RABIN1999]_
+[KLAYMAN1995]_ Because of this, we generally require less confirming evidence
+to uphold a belief than we do disconfirming evidence to reject one. This
+largely depends on our degree of confidence in our belief and the value of
+making a correct conclusion. However, our motivation for truth
+may be outweighed by our need for self esteem, approval from others, control,
+and internal consistency that confirming evidence may provide. [NICKERSON1998]_
+In many cases, it may be more imporant for us to maintain our belief preference
+than to be accurate. Being wrong can be painful and is often seen as undesirable.
+We're also told to "have the courage of one's convictions." [KLAYMAN1995]_
+Interpreting evidence, then, can be an internal fight between what is right and
+what feels good.
 
 
 Restricting attention to a favoured belief
