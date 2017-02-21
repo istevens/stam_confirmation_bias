@@ -241,6 +241,180 @@ Seeing what one is seeking (self-fulfilling prophecies, or illusory correlation)
 Does learning truly converge on optimizing behaviour?
 
 
+Why it develops (signals)
+=========================
+
+
+How to fight back
+=================
+
+.. notes::
+
+   JONES2000::
+        - Wason card
+            - subjects almost always recognized significance of disconfirmation if found
+            - subjects rarely made deductively incorrect judgements
+            - learning increases frequency of optimal response, <p, not q> most stable 21/27
+                - but no decline in positive confimation response (q card)
+
+   KLAYMAN1995::
+        - When does CB go away?
+            - possibility of punishment for suboptimal decisions (tie into desire to be right)
+            - environment provides opportunity for correction and adjustments
+            - depends on strategy paired with environment
+                eg. if false positive errors more costly (usually)
+                    OF if false negatives more costly
+                - positive testing
+                - need to adapt and people can if there's a cost
+
+        - knowledge and experience
+            - context and content
+                - eg. selection task and deontic reasoning
+                - abstract vs. rule breaking
+                - helps most if problem in area of experience
+                    eg. problems solves frequently (CB absent) vs. unfamiliar domains (bias reappears)
+                - AND ppl can tap into a general schema to find inconsistencies
+                    eg. permission schema and compliance
+                - can training help?
+                    - yes, but needs to be thorough as brief instructions do not help much
+                    - unclear how specific training must be
+                        - and how generalizable they can be
+
+        - consider alternatives
+            - ppl do better with 2 alternates than evaluating a single hyp
+            - mention of specific alts 3x more common if successful subjects than unsuccessful ones
+            - consider alts broadens domain and evaluation need not start anew
+            - training and real world knowledge can help
+                - natural sets of competing hyps known
+                - and distinguising feathres get more attention
+                - so facilitates comparisons with info => less pseudodiagnostic errors
+            - OR use others to gen alts (like journal reviewers)
+                - some studies show better hyp development if alts made explicit
+                    - OR when asked either/or questions
+            - OR discovery
+            - difficult to consider >1 hyp at once
+                - ppl may think about alts seperately and independently
+                - may not seriously consider alts
+                    - esp if already have viable hyp
+
+    RABIN1999::
+        - more info likely not better
+        - Providing same ambiguous info to ppl differing in beliefs can move beliefs further apart
+            eg. inner city child and reading
+        - to overcome, incentives to collect more info may not pan out
+            - so, mute incentives relative to optimal (and no reward for info gathering)
+                eg. investment agent offered constant wage
+
+    NELSON2015::
+        - bias persists
+        - belief as objective => more likely to have confidence in stereotype beliefs and act on them
+        - working against stereotype takes more time, uses other areas of brain
+            - eg. Francis Bacon quote
+        - need wider community of scholars, more diversity of thought and perspective
+            - eg. gender, race, class, nationality
+            - to reduce locally-held beliefs
+
+    NICKERSON1998::
+        - ppl often do not consider p(D|~H)
+        - ppl are capable of creating reasons for opposing view if explicitly asked to do so
+            - motivational problem, not cognitive limitation
+        - ppl more likely to rate one-sided arguments higher than two-sided ones
+        - same evidence interpreted differently depending on viewpoint
+            - and judged as more consistent than reality
+
+    LARRICK2004::
+        (more notes on paper)
+        # do better because…motivation
+        # replace imperfect strategies with those which approach normative standards
+            eg. prescriptive decision-making
+                - can approximate normative ideal but can be readily remembered and implemented
+                    - meliorists - reasoning falls short but education and experience can improve
+                    - apologists - normative standards unavailable, intuitive strategies well-adapted
+                - always subset of ppl who give normative response on task
+                    - some can do it, so not unattainable
+        - technologist: expand strategies to include external techniques (tools)
+            - groups not individuals
+            - decision aids and info displays
+            - formal decision analysis
+            - statistical models
+            - lone individuals cannot debias selves
+                - some biases not easily recognized and corrected
+                - will often not realise use of poor decision-making process
+                    - delay in feedback on decision
+                    - existence and source of error difficult to identify
+
+            - no guarantee that standard econ and stats curricula provide best means for improving intuition
+
+        - little evidence that incentives improve decision-making
+            - idea assumes ppl must possess effective strategies and fail to
+              apply or apply poorly in absence of incentives
+                - effective strategies are complicated (Bayes)
+                    OR simple but require correct strategy applied at correct time
+            - BUT incentives may work if task is boring leading to lack of effort
+                => superficial process
+
+        # accountability for decisions (similar to incentives but with social benefits)
+            - embarrassment, impression
+            - pre-emptive self-criticism (anticipate flaws)
+            - primarily improves performance on tasks for which ppl already possess appropriate strategy
+            - leads to greater effort and use fo info => may result in improved performance
+            - "lost pilot" if cues unreliable
+            - diff with incentives: strong social need for consistency
+                - though detrimental, improves prediction when weighing unreliable cues
+            - problems
+               - "give ppl what they want"
+               - if unknown preference, pre-emptive self-criticism
+
+        # consider the opposite
+            - how might I be wrong and why? what reasons?
+            - effective at reducing overconfidence, hindsight biases, and anchoring effects
+            - consider alt hypothesis shown to reduce CB in seeking and evaluating new info
+            - also directs attention to contrary evidence
+                - BUT requiring too many contrary reasons => can't, so initial hyp correct
+
+        # training in rules (eg. econ, stats)
+            - ppl have basic stats, logic, econ knowledge (like sampling)
+                BUT may not know how to apply and when
+            - short training sessions in comfortable domain (eg. sports)
+                - rule generalized to other domains, but diminished over 2 weeks
+            - BEST - combine with abstract and concrete examples
+                - makes use automatic
+            - BUT complex rules like Bayes' a poor candidate - CB
+
+        # training in representation
+            - ppl reason more accurately about frequency than probability
+                - SO present info as frequencies
+                - OR/AND train ppl to translate prop reasoning into frequency reasoning
+                - for conditional probability or Bayes'
+                    - freq training effective and durable
+
+        # training in biases
+            - teach inconsistencies in human reasoning
+                - with no instructions to overcome except BEWARE
+            - but no controlled experiment with or without recognition skills and decision tools
+
+        # tech strategies
+            - out of realm of individual biases
+            - group decision-making
+                - ppl unknowingly influenced by others judgements => anchor on judgements of others
+                - BUT error checking
+                    - complementary expertise
+                    - increase sample size of experience
+                        - beware shared errors and blid spots
+                - diversity of experience, training preserve diversity of perspectives
+                    - AND formulate own hyp, judgement, estimates independently before group meeting
+            - linear models, multi-attribute analysis, decision analysis
+                - decompose complex problem into simple problems (eg. pro/con)
+            - decision support systems
+            - BUT adoption
+                - beware top-down, domain-general
+                - bottom-up = sense of ownership
+                - BUT self-imposed: ppl underestimate bias, are overconfident in their decision-making
+                    - fail to recognize needing help
+            - approaches encourage ppl to think more deeply otherwise
+            - linear models
+
+
 References
 ==========
 

@@ -119,6 +119,8 @@ Notes below highlights only, refer to written notes
                 => positive confirmation not simple error, but internally coherent pattern of reasoning
         # positive confirmation may have a considerable degree of robustness to experience
             - ppl learn value of looking for disconfirming evidence but seek confirmations with no info value
+        - Wason card experiment
+            - those who turned over q card had confidence increased with uninformative data
 
     KLAYMAN1995::
         # search for evidence
