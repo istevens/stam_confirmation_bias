@@ -39,15 +39,15 @@ rational. Any errors in judgment were often blamed on weak
 reasoning. [LARRICK2004]_ In his recount of the Peloponnesian War, Thucydides
 (460BC-395BC) called confirmation bias a "habit"::
 
-    "… for it is a habit of mankind to entrust to careless hope what they long
-    for, and to use sovereign reason to thrust aside what they do not fancy.
+"… for it is a habit of mankind to entrust to careless hope what they long
+for, and to use sovereign reason to thrust aside what they do not fancy.
 
 Sir Francis Bacon (1561-1626) was more inclined to treat confirmation bias as a
 trick of the mind::
 
-    "The human understanding when it has once adopted an opinion (either as
-    being the received opinion or as being agreeable to itself) draws all
-    things else to support and agree with it."
+"The human understanding when it has once adopted an opinion (either as
+being the received opinion or as being agreeable to itself) draws all
+things else to support and agree with it."
 
 It wasn't until 1960, when psychologist Peter Wason performed his first
 selection experiment, that confirmation bias was studied and named.
@@ -188,7 +188,7 @@ three numbers which would fit a different but also valid theory, or which did no
 the theory at all.
 
 .. [#bayes] Also known as Bayes' Theorem, this involves calculating the odds
-   of an event occurring based on conditions related to the event.
+of an event occurring based on conditions related to the event.
 
 [See what one is seeking]
 
@@ -247,6 +247,63 @@ Why it develops (signals)
 
 How to fight back
 =================
+
+Confirmation bias can occur at every stage of our learning process, from
+initial belief to evidence gathering. At every stage, it reinforces itself and
+may become so severe that our bias becomes entrenched. Worse, our internal
+reasoning remains intact, so we are unaware of our own confirmation bias. Our
+battle with bias may seem hopeless, but there are ways in which we can fight or
+lessen it.
+
+Although confirmation bias may seem entrenched in our brains, there are
+instances where we unknowingly reduce its impact. If we feel we may be punished
+for less-than-perfect decisions, our desire for approval can help lessen bias.
+"Punishment" could mean a loss of money, a loss of status, or a cost for bad
+decisions. Punitive measures are not often available, however. In those
+situations, creating an environment which provides a chance to correct and
+adjust belief or decisions can also help. [KLAYMAN1995]_
+
+Although a cost for a bad decision can help limit confirmation biases in some
+cases, there is little evidence that incentives improve the reliability of our
+decision-making. [LARRICK2004]_ [RABIN1999]_ Incentives might work if we feel
+that a given task is boring and would otherwise not put in the effort.
+Accountability for our decisions, on the other hand, can counter bias in tasks
+for which we already possess the appropriate strategy, usually due to
+experience in a specific subject. We have a strong social need for consistency,
+and are willing to put in the effort and more effectively use information when
+making decisions. To avoid embarrassment, we are more likely to foresee flaws
+with pre-emptive self-criticism. Our thirst for accountability may go too far,
+as we sometimes feel a need to "give people what they want", particularly if we
+are undecided. [LARRICK2004]_
+
+Context is also key when making decisions without bias. It helps to have
+experience in the area under study, especially if we encounter a problem we
+have solved before. Yet confirmation bias often reappears if we try to map
+that experience to a different domain. We may also tap into a general schema to
+find inconsistencies. Reasoning in areas of duty or obligation — *deontic*
+reasoning — such as when a social rule is being broken, can also be relatively
+bias-free. [KLAYMAN1995]_
+
+Confirmation bias can sometimes develop if we fail to properly apply formal
+reasoning. We may have some basic logic, economics, or statistics knowledge
+(such as sampling) but you may not know when or how to use it. If experience
+aids to limit confirmation bias, can training help? There is evidence that
+short training sessions in a domain with which we're comfortable (such as
+sports) can aid us to reduce bias in other areas. That assist, however,
+often diminishes over two weeks. [LARRICK2004]_ A more thorough study might be
+a better approach, yet little data exists on how specific this training can be
+and how generalizable it is.[KLAYMAN1995]_
+
+[Training in biases, rep]
+
+As Nelson's analysis of studies on gender and risk shows, even scholars and
+experts are often victims of bias. [NELSON2015]_ There seems to be no guarantee
+that intuition can be improved with more education. [KLAYMAN1995]_ Outside
+motivation can also only go so far, and may sometimes have the opposite effect.
+How then, can we hope to lessen our bias? Formal approaches exist but they are
+more geared towards reducing bias in group decisions. We cannot debias
+ourselves by ourselves, as we likely don't realise our own biases. As it turns
+out, the most effective strategy for reducing bias is to consider the opposite. [LARRICK2004]_
 
 .. notes::
 
