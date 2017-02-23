@@ -302,8 +302,29 @@ that intuition can be improved with more education. [KLAYMAN1995]_ Outside
 motivation can also only go so far, and may sometimes have the opposite effect.
 How then, can we hope to lessen our bias? Formal approaches exist but they are
 more geared towards reducing bias in group decisions. We cannot debias
-ourselves by ourselves, as we likely don't realise our own biases. As it turns
-out, the most effective strategy for reducing bias is to consider the opposite. [LARRICK2004]_
+ourselves by ourselves, as we likely don't realise our own biases.
+[LARRICK2004]_ As it turns out, the most effective strategy for reducing bias
+may be to consider the opposite.
+
+If you've debated a position in school – in English or a debate class, perhaps
+– you may have prepared by researching an opposing viewpoint. Considering the
+opposite can also be a decent strategy for fighting bias in our beliefs. This
+may be as simple as asking ourselves how we may be wrong on a position, why,
+and for what reasons. This approach can help reduce overconfidence – a symptom
+of confirmation bias – and is shown to lessen bias when looking for and
+interpreting new information. [LARRICK2004]_ We reason better with two theories
+than when evaluating a single hypothesis. Alternative theories can even come
+from other sources. What's important is that we seriously examine a specific
+opposing belief. [KLAYMAN1995]_
+
+Naturally, "seriously" examining an alternate belief is key. We may not give an
+opposing belief its due, especially if we feel ours is already viable.
+[KLAYMAN1995]_ Although directing our attention to contrary evidence can help
+counter bias, requiring too many opposing beliefs might backfire. Failing to
+come up with a required number of alternate theories might make us more
+overconfident in our own. [LARRICK2004]_ Considering more than one theory at
+once can also divide our attention. We might prefer to think about alternates
+seperately and independently. [KLAYMAN1995]_
 
 .. notes::
 
