@@ -294,7 +294,7 @@ often diminishes over two weeks. [LARRICK2004]_ A more thorough study might be
 a better approach, yet little data exists on how specific this training can be
 and how generalizable it is.[KLAYMAN1995]_
 
-[Training in biases, rep]
+[Training in biases, rep vs. odds]
 
 As Nelson's analysis of studies on gender and risk shows, even scholars and
 experts are often victims of bias. [NELSON2015]_ There seems to be no guarantee
@@ -317,14 +317,63 @@ than when evaluating a single hypothesis. Alternative theories can even come
 from other sources. What's important is that we seriously examine a specific
 opposing belief. [KLAYMAN1995]_
 
-Naturally, "seriously" examining an alternate belief is key. We may not give an
+Naturally, *seriously* examining an alternate belief is key. We may not give an
 opposing belief its due, especially if we feel ours is already viable.
 [KLAYMAN1995]_ Although directing our attention to contrary evidence can help
-counter bias, requiring too many opposing beliefs might backfire. Failing to
+counter bias, requiring too many opposing viewpoints may backfire. Failing to
 come up with a required number of alternate theories might make us more
 overconfident in our own. [LARRICK2004]_ Considering more than one theory at
 once can also divide our attention. We might prefer to think about alternates
 seperately and independently. [KLAYMAN1995]_
+
+We may be able to hold our own confirmation bias at bay so long as we are aware
+of it, and give serious thought to viewpoints opposed to our own. What about
+people that we work with, or our friends?
+
+Unfortunately, when it comes to other individuals, we may just have to grin and
+bear it. In the absence of bias, a person could correct their belief with more
+information. However, with a person affected by confirmation bias, doing so may
+result in the opposite effect, and increase their leanings. Giving the same
+ambiguous information to people with differing beliefs may move their beliefs
+further apart. [RABIN1999]_ In one study, [cite capital punishment study]
+Depending on their viewpoint, others may see the same evidence you do and
+interpret differently, judging it as being more consistent with their bias.
+[NICKERSON1998]_
+
+Our friends and family with severe bias may be lost to it, but our workplace
+can still be saved. Decisions made at work have the advantage in that they
+often involve groups, which can be more readily debiased than individuals. Many
+strategies for lessening bias in groups exist, usually involving a framework or
+a tool to help make sound decisions. Groups can make use of decision aids,
+information displays, statistical models, and other formal decision analysis
+techniques. Complex problems, say, can be split into smaller, simpler ones and
+assigned to smaller groups. These technical strategies are simply out of reach
+for most people. Whereas we as individuals can introduce bias at every step of
+the decision-making process, groups can track their progress and use those
+results as feedback.
+
+Adoption can be a problem when using strategies or tools to make unbiased
+decisions at work. A bottom-up approach may have better results than a general
+process imposed from the top-down. When the people making the decisions choose
+a strategy appropriate to their group, their sense of ownership will help them
+stick to it and approach it more honestly. Beware, however, as with ourselves,
+groups can also underestimate their own bias and be overconfident in their
+decision-making. They, like us, may fail to recognize a need for help. [LARRICK2004]_
+
+Groups are also prone to "group-think". Their members may be influenced by
+others, and groups may anchor on the judgements of a few people. Having group
+members think about their preferences and estimates before a meeting might help
+lessen this risk. Tools and strategies can also check errors in the
+decision-making process. It is also a good idea to maintain complementary
+expertise within the group, and be aware of blind spots due to shared errors. [LARRICK2004]_
+
+Group-think due to blind spots may be lessened through diversity of experience
+within the group. While training can help preserve that diversity of
+perspectives, groups can do better by increasing the sample size of experience.
+[LARRICK2004]_ Drawing people in from a wider community will increase diversity
+of experience and may, in turn, increase diversity of thought. To reduce the
+risk of locally-held beliefs, groups should bring in members of differing
+genders, ethnicities, social-economic class, and nationality. [NELSON2015]_
 
 .. notes::
 
