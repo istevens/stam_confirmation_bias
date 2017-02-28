@@ -1,12 +1,3 @@
-Style guide
-===========
-
-- Probability = chance or odds
-- Hypothesis, theory = belief
-
-https://en.wikipedia.org/wiki/Truthiness
-https://today.yougov.com/news/2016/12/27/belief-conspiracies-largely-depends-political-iden/
-
 Intro
 =====
 
@@ -39,15 +30,15 @@ rational. Any errors in judgment were often blamed on weak
 reasoning. [LARRICK2004]_ In his recount of the Peloponnesian War, Thucydides
 (460BC-395BC) called confirmation bias a "habit"::
 
-"… for it is a habit of mankind to entrust to careless hope what they long
-for, and to use sovereign reason to thrust aside what they do not fancy.
+    "… for it is a habit of mankind to entrust to careless hope what they long
+    for, and to use sovereign reason to thrust aside what they do not fancy."
 
 Sir Francis Bacon (1561-1626) was more inclined to treat confirmation bias as a
 trick of the mind::
 
-"The human understanding when it has once adopted an opinion (either as
-being the received opinion or as being agreeable to itself) draws all
-things else to support and agree with it."
+    "The human understanding when it has once adopted an opinion (either as
+    being the received opinion or as being agreeable to itself) draws all
+    things else to support and agree with it."
 
 It wasn't until 1960, when psychologist Peter Wason performed his first
 selection experiment, that confirmation bias was studied and named.
@@ -86,7 +77,7 @@ them. People often feel that universally positive traits apply to themselves
 without considering how widespread those traits actually are. This opens us to
 believe and place faith in horoscopes, but also psychics, mind readers, and
 other con artists. We often want to believe such people, often focusing on
-when they right, not instances when they are wrong. [NICKERSON1998]_
+when they right, not when they are wrong. [NICKERSON1998]_
 
 Belief in horoscopes, clairvoyants, and mentalists are mild influences of
 confirmation bias. The same tendency to see or remember what we expect or
@@ -145,7 +136,7 @@ naturally take on a great deal of risk (such as with child birth, and risk of
 domestic violence) were neglected. Instead, other areas of risk (such as
 finance) were studied and findings extrapolated to a broader context.
 [NELSON2015]_ In the following paragraphs, we'll learn how tendencies such as
-overweighing instances of positive confirmation cause confirmation bias to grow
+overweighing instances of positive confirmation can cause confirmation bias to grow
 and persist. Because we often pair these tendencies with internally coherent
 patterns of reasoning, few are immune.
 
@@ -188,7 +179,7 @@ three numbers which would fit a different but also valid theory, or which did no
 the theory at all.
 
 .. [#bayes] Also known as Bayes' Theorem, this involves calculating the odds
-of an event occurring based on conditions related to the event.
+   of an event occurring based on conditions related to the event.
 
 [See what one is seeking]
 
@@ -204,8 +195,8 @@ This reinforcement of our initial belief through positive tests leads us to be
 more confident in our belief, even if the information we collect has no value. [KLAYMAN1995]_ [JONES2000]_
 
 Any selectively collected evidence is then interpreted. Our confirmation bias
-kicks in here as well, especially where the evidence is ambiguous or vague. In
-instances where evidence is open to interpretation, we tend to give our beliefs
+kicks in here as well, especially where the evidence is ambiguous or vague.
+When evidence is open to interpretation, we tend to give our beliefs
 the benefit of the doubt. [KLAYMAN1995]_ As an example, a teacher might
 interpret a student's non-standard answer to a question as either stupid or
 creative, depending on how the teacher feels about the student beforehand.
@@ -256,7 +247,7 @@ battle with bias may seem hopeless, but there are ways in which we can fight or
 lessen it.
 
 Although confirmation bias may seem entrenched in our brains, there are
-instances where we unknowingly reduce its impact. If we feel we may be punished
+times where we unknowingly reduce its impact. If we feel we may be punished
 for less-than-perfect decisions, our desire for approval can help lessen bias.
 "Punishment" could mean a loss of money, a loss of status, or a cost for bad
 decisions. Punitive measures are not often available, however. In those
@@ -292,7 +283,7 @@ short training sessions in a domain with which we're comfortable (such as
 sports) can aid us to reduce bias in other areas. That assist, however,
 often diminishes over two weeks. [LARRICK2004]_ A more thorough study might be
 a better approach, yet little data exists on how specific this training can be
-and how generalizable it is.[KLAYMAN1995]_
+and how generalizable it is. [KLAYMAN1995]_
 
 [Training in biases, rep vs. odds]
 
@@ -573,3 +564,8 @@ References
 .. [RABIN1999] Rabin, Matthew and Schrag, Joel L., (1999), First Impressions
    Matter: A Model of Confirmatory Bias, The Quarterly Journal of Economics, 114,
    issue 1, p. 37-82
+
+https://en.wikipedia.org/wiki/Truthiness
+
+https://today.yougov.com/news/2016/12/27/belief-conspiracies-largely-depends-political-iden/
+
