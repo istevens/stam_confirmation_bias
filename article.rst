@@ -7,6 +7,7 @@ how it grows and sticks with us,
 why it develops, and
 how to fight back.
 
+
 What it is
 ==========
 
@@ -141,8 +142,8 @@ and persist. Because we often pair these tendencies with internally coherent
 patterns of reasoning, few are immune.
 
 
-Why it develops and persists
-============================
+How it grows and sticks with us
+===============================
 
 Confirmation bias can affect us all, but it doesn't happen by itself. It needs
 agreeable conditions to grow, flourish, and persist. Several tendencies can
@@ -163,6 +164,7 @@ are more likely to question information which conflicts with existing beliefs
 than that which agrees with our beliefs. [NICKERSON1998]_ That initial belief,
 then, is very important as it is more likely to stick with us and will be
 difficult to correct.
+
 
 Evidence search/selection vs. interpretation
 --------------------------------------------
@@ -211,7 +213,7 @@ largely depends on our degree of confidence in our belief and the value of
 making a correct conclusion. However, our motivation for truth
 may be outweighed by our need for self esteem, approval from others, control,
 and internal consistency that confirming evidence may provide. [NICKERSON1998]_
-In many cases, it may be more imporant for us to maintain our belief preference
+In many cases, it may be more important for us to maintain our belief preference
 than to be accurate. Being wrong can be painful and is often seen as undesirable.
 We're also told to "have the courage of one's convictions." [KLAYMAN1995]_
 
@@ -234,6 +236,86 @@ Does learning truly converge on optimizing behaviour?
 
 Why it develops (signals)
 =========================
+
+.. notes::
+
+    - tendency to misinterpret new info as supporting prior belief
+        - may lead to erroneously interpreting next signal as supporting
+
+    KLAYMAN1995::
+        - self-perception affected more by actions taken, not actions not taken
+
+    RABIN1999::
+        - agent may come to believe with near certainty in false hypothesis
+          despite receiving and infinite amount of info
+
+        - infinite signals and no confirmatory bias => always correct hypothesis
+        - if CB w incorrect hypothesis => bias inhibits ability to overturn erroneous beliefs
+            - if strong: agent forever believes very strongly in false hypothesis
+            - if severe: learning can exacerbate the bias
+        - if convinced, may stop paying attention to additional info
+            - cognitive search model
+            - process -> strong belief?
+                - if yes, stop
+                - if no, continue processing
+
+        - belief formation:
+            # Start w 50/50 belief hypothesis, no CB
+            # Receive a signal of true state of world (assume independent and identically distributed)
+                - rational: update belief hyp using Bayes' Rule
+                - CB: agent may misinterpret signals which conflict with current belief hyp
+                    - alt: agent overlooks evidence conflicting with belief, ignores counterhyp evidence
+                    - CB: perceived signals not independently nor identically distributed
+                - severity of bias:
+                    - if 0, correctly perceives signal
+                    - if severe, first piece of info completely determines final belief
+                        - so rational observer of agents needs order and prior belief
+                - effect depends on signal order and prior belief
+                    - overconfident - prob of belief given # signals pro or con compared with prob of alt hyp
+                    - underconfident - less than rational, more pro signals
+                    - Bayesian observer needs agent's initial belief and order of signals to determine degree of CB
+                        eg. agent recently changed hyp => underconfident
+                    - info about order of agent's signals would significantly
+                      influence observer's judgment and degree of direction of
+                      agent's bias
+
+        - after infinite # of signals:
+            - fully Bayesian (no bias) => near certainty, correct hyp
+            - assume equal # of pro/con signals and 50/50 start
+                - agent may become certain that incorrect hyp is true if bias
+                  severe OR if bias is slight and signals weak
+                    => more and more confident in false belief
+                    => take risky and extreme actions (bad choices)
+                - OR may be certain of correct hyp
+            - learning may not help false belief
+
+    NELSON2015::
+        - feels natural => feels incontestable => drawn to confirming
+
+    NICKERSON1998::
+        - no stance => take a position => defend/justify position
+            - justify: with bias, feedback loop
+                - assume hyp is true
+        - defend with supported info and selective interpretation (and give it weight)
+        - AND do not seek and maybe avoid counter-indicative data/alt. possibilities (and lessen its weight)
+
+        - belief that 2 vars related
+            => increase chances of locating confirming evidence
+            => decrease chances of locating disconfirming evidence
+        - illusory correlation
+            - also with higher correlation
+            - stereotyping
+                - specific behaviours more common with some groups
+                - unusual behaviour in distinct groups more readily recalled
+
+    KLAYMAN1995::
+        - decision-making is complex
+        - too many vars w competing strategies
+        - cost of false negative vs false positive
+        - likelihood of failure?
+        - sense of importance of vars required
+        - CB not unitary but property of complex process of hyp development
+            => more than one way to fight it
 
 
 How to fight back
@@ -263,7 +345,7 @@ for which we already possess the appropriate strategy, usually due to
 experience in a specific subject. We have a strong social need for consistency,
 and are willing to put in the effort and more effectively use information when
 making decisions. To avoid embarrassment, we are more likely to foresee flaws
-with pre-emptive self-criticism. Our thirst for accountability may go too far,
+with preemptive self-criticism. Our thirst for accountability may go too far,
 as we sometimes feel a need to "give people what they want", particularly if we
 are undecided. [LARRICK2004]_
 
@@ -315,7 +397,7 @@ counter bias, requiring too many opposing viewpoints may backfire. Failing to
 come up with a required number of alternate theories might make us more
 overconfident in our own. [LARRICK2004]_ Considering more than one theory at
 once can also divide our attention. We might prefer to think about alternates
-seperately and independently. [KLAYMAN1995]_
+separately and independently. [KLAYMAN1995]_
 
 We may be able to hold our own confirmation bias at bay so long as we are aware
 of it, and give serious thought to viewpoints opposed to our own. What about
@@ -352,7 +434,7 @@ groups can also underestimate their own bias and be overconfident in their
 decision-making. They, like us, may fail to recognize a need for help. [LARRICK2004]_
 
 Groups are also prone to "group-think". Their members may be influenced by
-others, and groups may anchor on the judgements of a few people. Having group
+others, and groups may anchor on the judgments of a few people. Having group
 members think about their preferences and estimates before a meeting might help
 lessen this risk. Tools and strategies can also check errors in the
 decision-making process. It is also a good idea to maintain complementary
@@ -365,172 +447,6 @@ perspectives, groups can do better by increasing the sample size of experience.
 of experience and may, in turn, increase diversity of thought. To reduce the
 risk of locally-held beliefs, groups should bring in members of differing
 genders, ethnicities, social-economic class, and nationality. [NELSON2015]_
-
-.. notes::
-
-   JONES2000::
-        - Wason card
-            - subjects almost always recognized significance of disconfirmation if found
-            - subjects rarely made deductively incorrect judgements
-            - learning increases frequency of optimal response, <p, not q> most stable 21/27
-                - but no decline in positive confimation response (q card)
-
-   KLAYMAN1995::
-        - When does CB go away?
-            - possibility of punishment for suboptimal decisions (tie into desire to be right)
-            - environment provides opportunity for correction and adjustments
-            - depends on strategy paired with environment
-                eg. if false positive errors more costly (usually)
-                    OF if false negatives more costly
-                - positive testing
-                - need to adapt and people can if there's a cost
-
-        - knowledge and experience
-            - context and content
-                - eg. selection task and deontic reasoning
-                - abstract vs. rule breaking
-                - helps most if problem in area of experience
-                    eg. problems solves frequently (CB absent) vs. unfamiliar domains (bias reappears)
-                - AND ppl can tap into a general schema to find inconsistencies
-                    eg. permission schema and compliance
-                - can training help?
-                    - yes, but needs to be thorough as brief instructions do not help much
-                    - unclear how specific training must be
-                        - and how generalizable they can be
-
-        - consider alternatives
-            - ppl do better with 2 alternates than evaluating a single hyp
-            - mention of specific alts 3x more common if successful subjects than unsuccessful ones
-            - consider alts broadens domain and evaluation need not start anew
-            - training and real world knowledge can help
-                - natural sets of competing hyps known
-                - and distinguising feathres get more attention
-                - so facilitates comparisons with info => less pseudodiagnostic errors
-            - OR use others to gen alts (like journal reviewers)
-                - some studies show better hyp development if alts made explicit
-                    - OR when asked either/or questions
-            - OR discovery
-            - difficult to consider >1 hyp at once
-                - ppl may think about alts seperately and independently
-                - may not seriously consider alts
-                    - esp if already have viable hyp
-
-    RABIN1999::
-        - more info likely not better
-        - Providing same ambiguous info to ppl differing in beliefs can move beliefs further apart
-            eg. inner city child and reading
-        - to overcome, incentives to collect more info may not pan out
-            - so, mute incentives relative to optimal (and no reward for info gathering)
-                eg. investment agent offered constant wage
-
-    NELSON2015::
-        - bias persists
-        - belief as objective => more likely to have confidence in stereotype beliefs and act on them
-        - working against stereotype takes more time, uses other areas of brain
-            - eg. Francis Bacon quote
-        - need wider community of scholars, more diversity of thought and perspective
-            - eg. gender, race, class, nationality
-            - to reduce locally-held beliefs
-
-    NICKERSON1998::
-        - ppl often do not consider p(D|~H)
-        - ppl are capable of creating reasons for opposing view if explicitly asked to do so
-            - motivational problem, not cognitive limitation
-        - ppl more likely to rate one-sided arguments higher than two-sided ones
-        - same evidence interpreted differently depending on viewpoint
-            - and judged as more consistent than reality
-
-    LARRICK2004::
-        (more notes on paper)
-        # do better because…motivation
-        # replace imperfect strategies with those which approach normative standards
-            eg. prescriptive decision-making
-                - can approximate normative ideal but can be readily remembered and implemented
-                    - meliorists - reasoning falls short but education and experience can improve
-                    - apologists - normative standards unavailable, intuitive strategies well-adapted
-                - always subset of ppl who give normative response on task
-                    - some can do it, so not unattainable
-        - technologist: expand strategies to include external techniques (tools)
-            - groups not individuals
-            - decision aids and info displays
-            - formal decision analysis
-            - statistical models
-            - lone individuals cannot debias selves
-                - some biases not easily recognized and corrected
-                - will often not realise use of poor decision-making process
-                    - delay in feedback on decision
-                    - existence and source of error difficult to identify
-
-            - no guarantee that standard econ and stats curricula provide best means for improving intuition
-
-        - little evidence that incentives improve decision-making
-            - idea assumes ppl must possess effective strategies and fail to
-              apply or apply poorly in absence of incentives
-                - effective strategies are complicated (Bayes)
-                    OR simple but require correct strategy applied at correct time
-            - BUT incentives may work if task is boring leading to lack of effort
-                => superficial process
-
-        # accountability for decisions (similar to incentives but with social benefits)
-            - embarrassment, impression
-            - pre-emptive self-criticism (anticipate flaws)
-            - primarily improves performance on tasks for which ppl already possess appropriate strategy
-            - leads to greater effort and use fo info => may result in improved performance
-            - "lost pilot" if cues unreliable
-            - diff with incentives: strong social need for consistency
-                - though detrimental, improves prediction when weighing unreliable cues
-            - problems
-               - "give ppl what they want"
-               - if unknown preference, pre-emptive self-criticism
-
-        # consider the opposite
-            - how might I be wrong and why? what reasons?
-            - effective at reducing overconfidence, hindsight biases, and anchoring effects
-            - consider alt hypothesis shown to reduce CB in seeking and evaluating new info
-            - also directs attention to contrary evidence
-                - BUT requiring too many contrary reasons => can't, so initial hyp correct
-
-        # training in rules (eg. econ, stats)
-            - ppl have basic stats, logic, econ knowledge (like sampling)
-                BUT may not know how to apply and when
-            - short training sessions in comfortable domain (eg. sports)
-                - rule generalized to other domains, but diminished over 2 weeks
-            - BEST - combine with abstract and concrete examples
-                - makes use automatic
-            - BUT complex rules like Bayes' a poor candidate - CB
-
-        # training in representation
-            - ppl reason more accurately about frequency than probability
-                - SO present info as frequencies
-                - OR/AND train ppl to translate prop reasoning into frequency reasoning
-                - for conditional probability or Bayes'
-                    - freq training effective and durable
-
-        # training in biases
-            - teach inconsistencies in human reasoning
-                - with no instructions to overcome except BEWARE
-            - but no controlled experiment with or without recognition skills and decision tools
-
-        # tech strategies
-            - out of realm of individual biases
-            - group decision-making
-                - ppl unknowingly influenced by others judgements => anchor on judgements of others
-                - BUT error checking
-                    - complementary expertise
-                    - increase sample size of experience
-                        - beware shared errors and blid spots
-                - diversity of experience, training preserve diversity of perspectives
-                    - AND formulate own hyp, judgement, estimates independently before group meeting
-            - linear models, multi-attribute analysis, decision analysis
-                - decompose complex problem into simple problems (eg. pro/con)
-            - decision support systems
-            - BUT adoption
-                - beware top-down, domain-general
-                - bottom-up = sense of ownership
-                - BUT self-imposed: ppl underestimate bias, are overconfident in their decision-making
-                    - fail to recognize needing help
-            - approaches encourage ppl to think more deeply otherwise
-            - linear models
 
 
 References
