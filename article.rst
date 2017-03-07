@@ -31,15 +31,15 @@ rational. Any errors in judgment were often blamed on weak
 reasoning. [LARRICK2004]_ In his recount of the Peloponnesian War, Thucydides
 (460BC-395BC) called confirmation bias a "habit"::
 
-    "… for it is a habit of mankind to entrust to careless hope what they long
-    for, and to use sovereign reason to thrust aside what they do not fancy."
+"… for it is a habit of mankind to entrust to careless hope what they long
+for, and to use sovereign reason to thrust aside what they do not fancy."
 
 Sir Francis Bacon (1561-1626) was more inclined to treat confirmation bias as a
 trick of the mind::
 
-    "The human understanding when it has once adopted an opinion (either as
-    being the received opinion or as being agreeable to itself) draws all
-    things else to support and agree with it."
+"The human understanding when it has once adopted an opinion (either as
+being the received opinion or as being agreeable to itself) draws all
+things else to support and agree with it."
 
 It wasn't until 1960, when psychologist Peter Wason performed his first
 selection experiment, that confirmation bias was studied and named.
@@ -85,6 +85,8 @@ confirmation bias. The same tendency to see or remember what we expect or
 desire can also feed more serious conditions such as hypochondria and paranoia.
 Depressed people may also focus on information which strengthens their
 depression, and ignore more positive information which may help them. [NICKERSON1998]_
+
+[Overconfidence => risky and extreme actions, bad choices — RABIN1999]
 
 Of greater concern is how confirmation bias can uphold stereotypes and
 prejudice. Our tendency to see what we are led to expect can be detrimental to
@@ -181,7 +183,7 @@ three numbers which would fit a different but also valid theory, or which did no
 the theory at all.
 
 .. [#bayes] Also known as Bayes' Theorem, this involves calculating the odds
-   of an event occurring based on conditions related to the event.
+of an event occurring based on conditions related to the event.
 
 [See what one is seeking]
 
@@ -236,6 +238,36 @@ Does learning truly converge on optimizing behaviour?
 
 Why it develops (signals)
 =========================
+
+We know now that confirmation bias grows and persists by ways of a number of
+tendencies. To help us rid ourselves of bias, we need to understand how our
+beliefs can be so easily skewed by it. One way we can do so is by thinking
+about our belief formation as affected by a series of signals.
+
+We are constantly receiving signals of the true state of the world, through our
+senses and our interactions with it. Reading a tweet, watching a video clip,
+speaking with someone outside our circle — signals like these influence our
+belief. A rational observer who perfectly rates each signal and applies it to
+her beliefs would, after an infinite number of signals, always attains
+near-certain belief. [RABIN1999]_
+
+Few of us are perfectly rational, however. We may start our decision-making
+process believing that two sides to an issue are equally valid, but this
+may change as soon as we receive our first signal. [RABIN1999]_
+[NICKERSON1998]_ As we learned with the primacy effect, if our bias is severe
+enough, that first signal may completely determine our final belief. Once we
+begin leaning towards a belief, we may misinterpret further signals which
+conflict with that belief. We may ignore or underweigh a conflicting signal, or
+overweigh a confirming one. [RABIN1999]_ Under bias, our belief formation may
+quickly become a feedback loop. Every signal we receive may be used to defend
+or justify our position. [NICKERSON1998]_
+
+Learning, then, may worsen an already severe bias. [RABIN1999]_ Even after an
+infinite number of signals, our bias may compel us to believe with
+near-certainty in a false belief. Chances are, though, that we will become
+convinced of our own belief and stop paying attention to further signals. After
+processing a number of signals, our belief may go from feeling natural, to
+feeling incontestable. [NELSON2015]_
 
 .. notes::
 
@@ -412,6 +444,12 @@ further apart. [RABIN1999]_ In one study, [cite capital punishment study]
 Depending on their viewpoint, others may see the same evidence you do and
 interpret differently, judging it as being more consistent with their bias.
 [NICKERSON1998]_
+
+Considering belief formation as a series of signals can also show how difficult
+it may be to debias someone else. The effect of each signal depends on those
+which came before it as well as any prior belief. To debias someone, we may
+need to know their initial belief on a topic as well as the order of signals
+which followed. [RABIN1999]_
 
 Our friends and family with severe bias may be lost to it, but our workplace
 can still be saved. Decisions made at work have the advantage in that they
