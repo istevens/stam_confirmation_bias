@@ -229,6 +229,88 @@ LARRICK2004::
         - eg. Bayes
 
 
+Why it develops (signals)
+=========================
+
+- tendency to misinterpret new info as supporting prior belief
+    - may lead to erroneously interpreting next signal as supporting
+
+KLAYMAN1995::
+    - self-perception affected more by actions taken, not actions not taken
+
+RABIN1999::
+    - agent may come to believe with near certainty in false hypothesis
+      despite receiving and infinite amount of info
+
+    - infinite signals and no confirmatory bias => always correct hypothesis
+    - if CB w incorrect hypothesis => bias inhibits ability to overturn erroneous beliefs
+        - if strong: agent forever believes very strongly in false hypothesis
+        - if severe: learning can exacerbate the bias
+    - if convinced, may stop paying attention to additional info
+        - cognitive search model
+        - process -> strong belief?
+            - if yes, stop
+            - if no, continue processing
+
+    - belief formation:
+        # Start w 50/50 belief hypothesis, no CB
+        # Receive a signal of true state of world (assume independent and identically distributed)
+            - rational: update belief hyp using Bayes' Rule
+            - CB: agent may misinterpret signals which conflict with current belief hyp
+                - alt: agent overlooks evidence conflicting with belief, ignores counterhyp evidence
+                - CB: perceived signals not independently nor identically distributed
+            - severity of bias:
+                - if 0, correctly perceives signal
+                - if severe, first piece of info completely determines final belief
+                    - so rational observer of agents needs order and prior belief
+            - effect depends on signal order and prior belief
+                - overconfident - prob of belief given # signals pro or con compared with prob of alt hyp
+                - underconfident - less than rational, more pro signals
+                - Bayesian observer needs agent's initial belief and order of signals to determine degree of CB
+                    eg. agent recently changed hyp => underconfident
+                - info about order of agent's signals would significantly
+                  influence observer's judgment and degree of direction of
+                  agent's bias
+
+    - after infinite # of signals:
+        - fully Bayesian (no bias) => near certainty, correct hyp
+        - assume equal # of pro/con signals and 50/50 start
+            - agent may become certain that incorrect hyp is true if bias
+              severe OR if bias is slight and signals weak
+                => more and more confident in false belief
+                => take risky and extreme actions (bad choices)
+            - OR may be certain of correct hyp
+        - learning may not help false belief
+
+NELSON2015::
+    - feels natural => feels incontestable => drawn to confirming
+
+NICKERSON1998::
+    - no stance => take a position => defend/justify position
+        - justify: with bias, feedback loop
+            - assume hyp is true
+    - defend with supported info and selective interpretation (and give it weight)
+    - AND do not seek and maybe avoid counter-indicative data/alt. possibilities (and lessen its weight)
+
+    - belief that 2 vars related
+        => increase chances of locating confirming evidence
+        => decrease chances of locating disconfirming evidence
+    - illusory correlation
+        - also with higher correlation
+        - stereotyping
+            - specific behaviours more common with some groups
+            - unusual behaviour in distinct groups more readily recalled
+
+KLAYMAN1995::
+    - decision-making is complex
+    - too many vars w competing strategies
+    - cost of false negative vs false positive
+    - likelihood of failure?
+    - sense of importance of vars required
+    - CB not unitary but property of complex process of hyp development
+        => more than one way to fight it
+
+
 How to fight back
 =================
 
