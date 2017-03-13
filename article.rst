@@ -15,56 +15,59 @@ What it is
 
 Confirmation bias is one of many cognitive biases which affect how we reason.
 Unlike a leaning or a slant, like left- or right-wing bias, cognitive biases
-are the result of involuntary mental "short-cuts". [Brief example] These
-short-cuts may have helped our ancestors quickly tell a friend from a foe, but
-they impede logic and accuracy necessary in our modern world. [NELSON2015]_
+are the result of involuntary mental "short-cuts". For example, we often use
+stereotypes to fill in details – often inaccurately — about a member of a
+specific group. These short-cuts may have helped our ancestors quickly tell a
+friend from foe, but they impede logic and accuracy necessary in our modern
+world. [NELSON2015]_
 
-While there are many cognitive biases, confirmation bias likely does us the
-most harm. It leads us to hold false beliefs with a confidence greater than
-evidence can justify. [NICKERSON1998]_ Those affected will often misinterpret
-new information as supporting a previously-held belief. [RABIN1999]_ In this
-way, confirmation bias tricks us into accepting untruths and nurtures them
-until we are certain they are true.
+While there are many cognitive biases, one particular bias likely does us the
+most harm: confirmation bias. Confirmation bias leads us to hold false beliefs
+with a confidence greater than evidence can justify. [NICKERSON1998]_ Those
+affected will often misinterpret new information as supporting a
+previously-held belief. [RABIN1999]_ In this way, confirmation bias tricks us
+into accepting untruths and nurtures them until we are certain they are true.
+For example, thanks to confirmation bias we may readily observe and recall
+unusual behaviours in people from distinct ethnicities. This tendency, left
+unchecked, can contribute to racist stereotypes. [NICKERSON1998]_
 
 Before confirmation bias had a name, people were thought to be largely
 rational. Any errors in judgment were often blamed on weak
 reasoning. [LARRICK2004]_ In his recount of the Peloponnesian War, Thucydides
 (460BC-395BC) called confirmation bias a "habit"::
 
-"… for it is a habit of mankind to entrust to careless hope what they long
-for, and to use sovereign reason to thrust aside what they do not fancy."
+    "… for it is a habit of mankind to entrust to careless hope what they long
+    for, and to use sovereign reason to thrust aside what they do not fancy."
 
 Sir Francis Bacon (1561-1626) was more inclined to treat confirmation bias as a
 trick of the mind::
 
-"The human understanding when it has once adopted an opinion (either as
-being the received opinion or as being agreeable to itself) draws all
-things else to support and agree with it."
+    "The human understanding when it has once adopted an opinion (either as
+    being the received opinion or as being agreeable to itself) draws all
+    things else to support and agree with it."
 
 It wasn't until 1960, when psychologist Peter Wason performed his first
 selection experiment, that confirmation bias was studied and named.
 
-Wason's experiment was simple: present a subject with three numbers (ie.
-2-4-6), and ask him/her to identify a rule for the three numbers. The subjects
-were then asked to pick three other numbers which fit their supposed rule, and
+Wason's experiment was simple: present a person with three numbers (ie.
+2-4-6), and ask him/her to identify a rule for the three numbers. That person
+was then asked to pick three other numbers which fit his/her supposed rule, and
 were told whether their numbers fit the actual rule. Although the actual rule
-was "any ascending sequence", subjects would often come up with rules specific
+was "any ascending sequence", people would often come up with rules specific
 to the initial triplet (eg. "numbers increasing by two") and would often only
-pick triplets which confirmed their rule, never triplets which would show it
-to be wrong. As we will learn later, improper selection of evidence is one
-tendency which contributes to confirmation bias.
+pick triplets which confirmed their rule (eg. 9-11-13), never triplets which
+would show it to be wrong (eg. 9-10-11). As we will learn later, improper
+selection of evidence is one tendency which contributes to confirmation bias.
 
 Since Wason's experiment, many studies have shown that not only do we hold
-systematic biases, they are robust to corrective measures. [LARRICK2004]_ We as
-individuals are largely unaware of our own confirmation bias. Worse, although
-our reasoning about information is sometimes subject to bias, supporting
-existing beliefs, we rationally apply that information to our own state of the
-world. Ignorant to our own bias, further reasoning with our beliefs is
-tainted. While our bias-influenced reasoning may be internally coherent, it
-results in sub-optimal decisions. As we are unaware we are holding a
-biased view of the world yet feel we are being rational, we can become
-over-confident in our beliefs, and further reinforce our bias. [JONES2000]_
-[RABIN1999]_
+systematic biases, they can be difficult to correct. [LARRICK2004]_ We
+may not even know about our own confirmation bias. Worse, although our
+reasoning about information may be biased, we rationally apply that data to our
+own state of the world. Our bias is hidden from us because we feel we're being
+reasonable, but with skewed information. This bias-influenced reasoning may
+make sense to us, but it results in imperfect decisions.  Once we're ignorant
+to our bias, we may become over-confident in our beliefs and risk tainting
+future reasoning, thereby reinforcing our bias. [JONES2000]_ [RABIN1999]_
 
 
 Why we should care
