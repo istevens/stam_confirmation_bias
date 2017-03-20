@@ -65,39 +65,54 @@ may not even know about our own confirmation bias. Worse, although our
 reasoning about information may be biased, we rationally apply that data to our
 own state of the world. Our bias is hidden from us because we feel we're being
 reasonable, but with skewed information. This bias-influenced reasoning may
-make sense to us, but it results in imperfect decisions.  Once we're ignorant
-to our bias, we may become over-confident in our beliefs and risk tainting
-future reasoning, thereby reinforcing our bias. [JONES2000]_ [RABIN1999]_
+make sense to us, but it results in imperfect decisions. Ignorant to our bias,
+we may become over-confident in our beliefs and risk tainting future reasoning,
+thereby reinforcing our bias. [JONES2000]_ [RABIN1999]_
 
 
 Why we should care
 ==================
 
 As we'll learn later, confirmation bias can change the way we view
-reality. Once affected, we may only see what we are led to expect. We may also
-overvalue information or events which support our theories. Horoscopes are a
-mild example of how these tendencies can be used and remain popular because of
-them. People often feel that universally positive traits apply to themselves
-without considering how widespread those traits actually are. This opens us to
-believe and place faith in horoscopes, but also psychics, mind readers, and
-other con artists. We often want to believe such people, often focusing on
-when they right, not when they are wrong. [NICKERSON1998]_
+reality. Once affected, we may only see what our beliefs lead us to expect. We may also
+overvalue information or events which support our theories, and undervalue
+information which does not. Bias tends to filter out opposing views and
+supporting facts, leading to overconfidence in our beliefs. Overconfidence, in
+turn, can lead us to make bad choices, sometimes resulting in risky and extreme
+behaviour. [RABIN1999]_
 
-Belief in horoscopes, clairvoyants, and mentalists are mild influences of
-confirmation bias. The same tendency to see or remember what we expect or
-desire can also feed more serious conditions such as hypochondria and paranoia.
-Depressed people may also focus on information which strengthens their
-depression, and ignore more positive information which may help them. [NICKERSON1998]_
+Horoscopes are a mild example of how our bias can affect our behaviour. No
+doubt you know someone who, in some small way, has acted on advice in a
+horoscope or from a psychic. Indeed, such mediums remain popular largely
+*because* we tend to focus on or remember what we expect or desire. We also
+often feel that universally positive traits apply to ourselves, without
+considering how widespread those traits actually are. This opens us to believe
+and place faith in astrology, fortunetellers, and con artists. We often want to
+believe such people, often focusing on when they right, not when they are
+wrong. [NICKERSON1998]_
 
-[Overconfidence => risky and extreme actions, bad choices — RABIN1999]
+The same tendency to see or remember what we expect or desire can also feed
+more serious conditions such as hypochondria and paranoia. Depressed people
+may also focus on information which strengthens their depression, and ignore
+more positive information which may help them. [NICKERSON1998]_
 
-Of greater concern is how confirmation bias can uphold stereotypes and
-prejudice. Our tendency to see what we are led to expect can be detrimental to
-what we think of other people or groups. Selective memory of events which
-confirm our thinking means that unusual behaviour from distinct groups is more
-readily recalled. Several studies have shown how bias can sway how we react
-to people about whom we hold stereotypes — even if we are only told those
-people belong to a specific group. [NICKERSON1998]_
+Tendencies contributing to bias can lead us to confidently make bad decisions
+which affect ourselves as well as others. Think about a group of people you
+might not fully trust, be it based on skin colour, ethnicity, or belief. Have
+you ever gone out of your way to avoid a member of that group? or treated
+someone in that group differently than you would others? Such stereotypes and
+prejudices are largely fed by confirmation bias, and can influence how we treat
+or view "others".
+
+Our tendency to see what we are led to expect can be detrimental to our opinion
+of people or groups. This selective memory can confirm our belief, and lead us
+to more readily recall unusual behaviour from distinct groups. Belief tainted
+by memory increases our confidence in stereotypes, leading us to more likely
+act on them. [NELSON2015]_ Thinking back to a group you may mistrust, which
+negative behaviours do you associate with that group? How about positive or
+benign ones? Several studies have shown how bias can sway how we react to
+people about whom we hold stereotypes — even if we are only *told* those people
+belong to a specific group. [NICKERSON1998]_
 
 In one such study, subjects were shown a video of a girl playing. Half the
 subjects were told the girl's parents were college-educated who held
@@ -110,27 +125,27 @@ identical video of her answering a series of questions. The group which was
 told the girl was from a well-to-do suburban family rated her reading level
 significantly higher than the group which was told she was from the inner-city. [RABIN1999]_
 
-This biased tendency to judge based on stereotype doesn't come about after
-years of prejudicial thinking either. In a study similar to the one above, 5-7
+This biased tendency to judge and make decisions based on confidence in a stereotype doesn't come about after
+years of prejudicial thinking, either. In a study similar to the one above, 5-7
 year-olds were told of a person who was "really, really smart." The children
 were then shown a picture of four adults — two women and two men — and asked to
-pick the "really, really smart" one. At aged 5, boys and girls chose their
-own gender roughly equally. Girls aged 6 or 7, however, were significantly less
+pick the "really, really smart" one. At aged 5, boys and girls chose their own
+gender roughly equally. Girls aged 6 or 7, however, were significantly less
 likely than boys the same age to view their own gender positively. In another
 study with different children, boys and girls aged 6 or 7 were asked to comment
 on a game for "really, really smart" children or one for children who "try
 really, really hard." The girls were significantly less interested than the
 boys in the games for smart children. [BIAN2017]_
 
-Reading these studies, we may feel that are "smarter", that our reasoning is
+Reading these studies, we may feel that we're "smarter", that our reasoning is
 stronger than others', and that we would not misjudge people, especially a
-child, so readily. Yet people well-versed in reasoning and statistics can still
-have a problem with confirmation bias. Numerous peer-reviewed studies claim to
-show that women are less likely than men to take on risk. However, a 2013
-"study of studies" claims that these studies and their authors are likely to be
-affected by stereotypes induced by bias. [NELSON2015]_ The studies' authors
-reached inaccurate conclusions by falling prey to a number of tendencies behind
-confirmation bias.
+child, so easily. Yet people well-versed in reasoning and statistics can still
+have a problem with confirmation bias and stereotypes. For instance, numerous
+peer-reviewed studies claim to show that women are less likely than men to take
+on risk. However, a 2013 "study of studies" claims that these studies and
+their authors are likely affected by stereotypes induced by bias. [NELSON2015]_
+The studies' authors reached inaccurate conclusions by falling prey to a number
+of tendencies behind confirmation bias.
 
 Some studies on risk and gender reinforce existing gender stereotypes by
 inaccurately citing conclusions of earlier literature, or emphasizing results
@@ -139,7 +154,7 @@ do not. These confirming results are, in turn, more likely to be published. In
 other studies, confounding variables (some due to socialization and pressure to
 conform to gender expectations) were neglected. In others, areas where women
 naturally take on a great deal of risk (such as with child birth, and risk of
-domestic violence) were neglected. Instead, other areas of risk (such as
+domestic violence) were neglected. Instead, different areas of risk (such as
 finance) were studied and findings extrapolated to a broader context.
 [NELSON2015]_ In the following paragraphs, we'll learn how tendencies such as
 overweighing instances of positive confirmation can cause confirmation bias to grow
@@ -186,7 +201,7 @@ three numbers which would fit a different but also valid theory, or which did no
 the theory at all.
 
 .. [#bayes] Also known as Bayes' Theorem, this involves calculating the odds
-of an event occurring based on conditions related to the event.
+   of an event occurring based on conditions related to the event.
 
 [See what one is seeking]
 
