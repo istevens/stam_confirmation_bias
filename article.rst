@@ -168,70 +168,77 @@ How it grows and sticks with us
 Confirmation bias can affect us all, but it doesn't happen by itself. It needs
 agreeable conditions to grow, flourish, and persist. Several tendencies can
 introduce bias as we develop our belief, while leaving our learning process
-intact. All stages of belief development are affected, from our initial
+intact. All stages of belief development are affected, from initial
 hypothesis generation, to searching for, testing, interpreting, and recalling
 evidence. [KLAYMAN1995]_
 
-Sometimes we form a belief from weak evidence, and this is where confirmation
-bias can start to take hold. This isn't to say that bias only occurs when
-evidence of a belief is not ideal. That first formation of belief, however, is
-very powerful, largely due to something called the primacy effect. Information
-acquired early carries more weight and is more easily recalled. Belief will
-then start to coalesce around those first pieces of information. With belief
-backed by initial weak evidence, we may have problems correctly interpreting
-better, possibly contradictory information received later. [RABIN1999]_ We
-are more likely to question information which conflicts with existing beliefs
-than that which agrees with our beliefs. [NICKERSON1998]_ That initial belief,
-then, is very important as it is more likely to stick with us and will be
-difficult to correct.
+Have you ever firmly believed something was true only to find out – years later
+– that it had no basis in reality? Maybe you had forgotten how you had come to
+believe in something which, under scrutiny, you realised was competely false.
+How could you have been so wrong? Chances are you took something you heard or
+read at face value, and carried it with you for years.
 
+Sometimes we form a belief from weak evidence. This is where confirmation
+bias starts to take hold. Governed by something known as *primacy effect*, that
+kernel of belief is powerful and can take root in your brain. Information
+acquired early can carry more weight and is more easily recalled. Belief will
+then start to collect around those first pieces of information. With belief
+backed by initial weak evidence, we may have problems correctly interpreting
+better — possibly contradictory — information received later. [RABIN1999]_
 
 Evidence search/selection vs. interpretation
 --------------------------------------------
 
-Once we start to form a belief from initial evidence, we will often gather more
-data. While we feel that we gather impartial evidence and adjust our belief
-accordingly, this is likely not the case. Determining the likelihood that our belief
-is true based on other beliefs, each with their own odds of being true, can be
-a complex task, and we often fail at it. [#bayes]_ For one, we often prefer positive
-tests for belief which can confirm that belief but will not uncover false
-negatives. [KLAYMAN1995]_ With Wason's 2-4-6 task as an example, subjects
-picked three numbers which fit their theory in order to test it, not
+Once we start to form a belief around initial evidence, we'll often gather supporting
+data. You may feel you're impartial and open to adjusting your belief
+accordingly, but the opposite is often true. Determining the likelihood that our belief
+is true based on other beliefs — each with their own odds of being true — can be
+difficult. [#bayes]_ Even the most analytical minds fail at this task. For one, we often prefer positive
+tests of belief. These tests can confirm belief but will not uncover false
+negatives. [KLAYMAN1995]_ Using Wason's 2-4-6 task as an example, subjects
+tested their theory by picking three numbers which fit it, not
 three numbers which would fit a different but also valid theory, or which did not fit
-the theory at all.
+the theory at all. For example, someone who believes that the 2-4-6 number
+sequence represents even numbers increasing by two might pick 8-10-12, but not 3-5-7.
 
 .. [#bayes] Also known as Bayes' Theorem, this involves calculating the odds
    of an event occurring based on conditions related to the event.
 
 [See what one is seeking]
 
+Giving up our beliefs can be painful. Because of this, we're more likely to
+question information which goes against them than information which agrees with them. [NICKERSON1998]_
 This tendency to seek largely positive evidence to match a theory uncovers
-patterns which may not exist, as with Wason's 2-4-6 task, but also limits
-discovery. In testing evidence, we tend to ask questions whose answer is "yes" if
-the hypothesis is true. For instance, in one study on test selection, participants were given
-a profile of an extrovert or an introvert and were asked to interview people to
-determine if they fit that type. The questions participants picked were seen as
-strongly confirming the personality type under test if given a positive answer,
-and strongly disconfirming the type if given a negative answer. [NICKERSON1998]_
-This reinforcement of our initial belief through positive tests leads us to be
-more confident in our belief, even if the information we collect has no value. [KLAYMAN1995]_ [JONES2000]_
+patterns which may not exist — as with Wason's 2-4-6 task — but also limits
+discovery.
 
-Any selectively collected evidence is then interpreted. Our confirmation bias
+In testing evidence, we're also more likely to ask questions whose answer is
+"yes" if the hypothesis is true. For instance, in one study on test selection,
+participants were given a profile of someone described as either an extrovert
+or an introvert. They were then asked to interview people to determine if they
+fit that personality type. Participants picked questions which, if answered
+with "yes", were seen as strongly confirming the personality type, and strongly
+disconfirming the type if answered with "no". [NICKERSON1998]_ For instance, someone given a profile flagged as an extrovert might ask "Do you enjoy large parties?" This reinforcement of our initial belief through positive tests leads us to be
+more confident in our belief, even if the information we collect has no value.
+[KLAYMAN1995]_ [JONES2000]_
+
+Once we've selectively collected and testing evidence, we interpret our
+findings. Our confirmation bias
 kicks in here as well, especially where the evidence is ambiguous or vague.
 When evidence is open to interpretation, we tend to give our beliefs
 the benefit of the doubt. [KLAYMAN1995]_ As an example, a teacher might
 interpret a student's non-standard answer to a question as either stupid or
 creative, depending on how the teacher feels about the student beforehand.
 
-We are also prone to view confirming evidence as reliable and relevant, and often
-accept it at face value. Disconfirming evidence, by contrast, is often seen as
+We're also prone to view confirming evidence as reliable and relevant, and often
+accept it at face value. Evidence which disagrees with our belief, by contrast, is often seen as
 unreliable and unimportant, and is likely to be scrutinized, often hypercritically,
 especially if the source is believed to be subject to error. [RABIN1999]_
 [KLAYMAN1995]_ Because of this, we generally require less confirming evidence
 to uphold a belief than we do disconfirming evidence to reject one. This
 largely depends on our degree of confidence in our belief and the value of
 making a correct conclusion. However, our motivation for truth
-may be outweighed by our need for self esteem, approval from others, control,
+may be outweighed by our need for self-esteem, approval from others, control,
 and internal consistency that confirming evidence may provide. [NICKERSON1998]_
 In many cases, it may be more important for us to maintain our belief preference
 than to be accurate. Being wrong can be painful and is often seen as undesirable.
